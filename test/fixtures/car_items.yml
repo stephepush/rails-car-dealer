@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  price: 1
+  sold: false
+  mileage: 1
+  imagee_url: MyString
+  ModelInfo: 
+
+two:
+  price: 1
+  sold: false
+  mileage: 1
+  imagee_url: MyString
+  ModelInfo: 

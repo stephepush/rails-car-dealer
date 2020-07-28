@@ -1,0 +1,2 @@
+class CarFeature < ApplicationRecord
+end
